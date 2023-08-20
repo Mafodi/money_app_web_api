@@ -1,0 +1,70 @@
+{
+  "description":"Test01",
+  "displayName":"Test01",
+  "metaData":"Test01",
+  "webIcon":"",
+  "iosIcon":"",
+  "androidIcon":"",
+  "additionalContent":"",
+  "name":"Test01",
+  "vendorProductCode":"Test01",
+  "productStatusId":41,
+  "vendorId":5514,
+  "tagIds":[
+    11476,
+    12633,
+    11339,
+    11327,
+    11328
+  ],
+  "publishedDate":"2020-05-26",
+  "expiryDate":"2020-05-26",
+  "productCostPrices":[
+    {
+      "billingTypeId":23,
+      "price":5,
+      "min":0,
+      "max":0,
+      "startDate":"2020-05-26",
+      "endDate":"2020-05-26"
+    }
+  ],
+  "productSubTypeId":39,
+  "id":"6590be60-f91c-46f2-2564-08d7f8cea4aa"
+}
+
+
+//{
+//  "id": "",
+//  "description":"Test",
+//  "displayName":"Test",
+//  "metaData":"",
+//  "webIcon":"",
+//  "iosIcon":"",
+//  "androidIcon":"",
+//  "averageSpend": 0,
+//  "additionalContent":"",
+//  "name":"Test",
+//  "vendorProductCode":"Test01",
+//  "productStatusId":41,
+//  "vendorId":5310,
+//  "productSubTypeId":33
+//  "tagIds":[
+//    11329,
+//    11330,
+//    11328,
+//    11327
+//  ],
+//  "publishedDate":"2020-02-07",
+//  "expiryDate":"2020-02-08",
+//  "productCostPrices":[
+//    {
+//      "billingTypeId":23,
+//      "price":10,
+//      "min":0,
+//      "max":0,
+//      "startDate":"2020-02-07",
+//      "endDate":"2020-02-08"
+//    }
+//  ]
+//}

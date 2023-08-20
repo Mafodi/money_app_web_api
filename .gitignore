@@ -1,0 +1,14 @@
+target/
+.idea/
+**.idea/
+.idea/*
+*.iml
+*.swp
+Reports/
+STDOUT
+lib/
+Reports/
+logs/
+A_Updater/
+FND_IOSDataFactory.java
+FND_AndroidDataFactory.java

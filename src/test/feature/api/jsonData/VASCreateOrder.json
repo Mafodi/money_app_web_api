@@ -1,0 +1,62 @@
+{
+  "requestId":"13b034f1-fe82-4a49-88e0-8ae3ac8318c3",
+  "orders":[
+    {
+      "orderId":"",
+      "productId":"5e17fe64-f094-42d4-70cc-08d7e838cb47",
+      "operation":"ORDER",
+      "quantity":1,
+      "amount":10,
+      "paymentReference":"MTN Airtime Top-up 27634041500",
+      "fromItemAccountId":"1",
+      "recipient":{
+        "beneficiaryID":30,
+        "beneficiaryName":"mtn11",
+        "destination":"27634041500",
+        "beneficiaryType":"PPD",
+        "saveBeneficiary":false
+      }
+    }
+  ]
+}
+
+
+
+
+//{
+//  "requestId":"3d0d77ce-0089-98be-f27f-d17ace2e75eb",
+//  "orders":[
+//    {
+//      "orderId":"",
+//      "productId":"5e17fe64-f094-42d4-70cc-08d7e838cb47",
+//      "operation":"ORDER",
+//      "quantity":1,
+//      "amount":10,
+//      "paymentReference":"MTN Airtime Top-up 27634041500",
+//      "fromItemAccountId":"12",
+//      "recipient":{
+//        "beneficiaryID":30,
+//        "beneficiaryName":"mtn11",
+//        "destination":"27634041500",
+//        "beneficiaryType":"PPD",
+//        "saveBeneficiary":false
+//      }
+//    }
+//  ]
+//}
+
+
+//{
+//  "requestId":"e8cdbf4d-3e0b-4adf-a538-5537e09ab67f",
+//  "orders":[
+//    {
+//      "orderId":"",
+//      "productId":"06f80829-1905-4816-bf03-08d7ab9e6c7e",
+//      "operation":"ORDER",
+//      "quantity":1,
+//      "amount":50,
+//      "paymentReference":"Google Play R50",
+//      "fromItemAccountId":"1"
+//    }
+//  ]
+//}

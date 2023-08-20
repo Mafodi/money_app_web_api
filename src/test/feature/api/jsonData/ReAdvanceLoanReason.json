@@ -1,0 +1,20 @@
+{
+  "data": [
+      {
+      "code": "10",
+      "description": "Building loan (Structural changes)"
+      },
+      {
+        "code": "5",
+        "description": "Home improvement"
+      },
+      {
+        "code": "6",
+        "description": "Debt consolidation"
+      },
+      {
+        "code": "7",
+        "description": "Lifestyle/other"
+      }
+    ]
+}

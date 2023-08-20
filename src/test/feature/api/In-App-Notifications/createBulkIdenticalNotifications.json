@@ -1,0 +1,61 @@
+{
+  "incomingSharedNotificationIdentifiers": [
+    {
+      "clientIdentity": {
+        "clientIdentifier": "414407065956",
+        "clientIdentifierType": "CIS"
+      },
+      "backOfficeNotificationId": "Shares_{{$guid}}"
+    },
+    {
+      "clientIdentity": {
+        "clientIdentifier": "414407065956",
+        "clientIdentifierType": "CIS"
+      },
+      "backOfficeNotificationId": "Shares_{{$guid}}"
+    }
+  ],
+  "notification": {
+    "notificationType": "MKT",
+    "displayCategory": "Offers",
+    "displaySubCategory": "Greenbacks",
+    "heading": "Greenbacks",
+    "subHeading": "Good news! You <strong>qualify</strong> to join our Greenbacks <strong>loyalty programme</strong>",
+    "body": "<p>Earn Greenbacks points when you shop online or swipe your linked Greenbacks card and then choose to redeem your rewards.</p>This will cost you only R20pm. You accept the terms and conditions and monthly fee.",
+    "backOfficeNotificationDate": "2019-05-15T11:31:11.6165595+02:00",
+    "activeExpiryDate": "2019-08-22T11:31:11.6165615+02:00",
+    "deviceExpiryDate": "2019-08-29T11:31:11.6165631+02:00",
+    "deliveryPriority": 2,
+    "responsePriority": 2,
+    "mustTrackFirstRead": true,
+    "mustTrackAllReads": false,
+    "mustTrackDismiss": true,
+    "allowMultipleResponses": false,
+    "allowAnonymous": false,
+    "mustBlockApp": false,
+    "mustPush": true,
+    "isDirectFlow": false,
+    "mustNotShowInInbox" : false,
+    "responseOptions": [
+      {
+        "type": "ALP",
+        "label": "Continue",
+        "value": "1",
+        "action": "GreenBackSignUp",
+        "additionalParameters": []
+      },
+      {
+        "type": "ALN",
+        "label": "No Thanks",
+        "value": "2",
+        "action": "Dismiss",
+        "additionalParameters": []
+      }
+    ],
+    "channels": [
+      {
+        "channel": 100
+      }
+    ]
+  }
+}

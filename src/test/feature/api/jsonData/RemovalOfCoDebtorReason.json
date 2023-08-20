@@ -1,0 +1,16 @@
+{
+  "data": [
+      {
+        "code": "12",
+        "description": "Deceased estate"
+      },
+      {
+        "code": "13",
+        "description": "Divorce"
+      },
+      {
+        "code": "14",
+        "description": "Dissolution of partnership"
+      }
+    ]
+}

@@ -1,0 +1,62 @@
+
+{
+  "notification": {
+    "backOfficeNotificationId": "EMINotif9006",
+    "notificationType": "MKT",
+    "clientIdentity": {
+      "clientIdentifier": "414158254467",
+      "clientIdentifierType": "CIS"
+    },
+    "displayCategory": "Offers",
+    "displaySubCategory": "Greenbacks",
+    "heading": "Good news! You qualify to join our Greenbacks loyalty programme.",
+    "subHeading": "Greenbacks",
+    "body": "Earn Greenbacks points when you shop online or swipe your linked Greenbacks card and then choose how to redeem your rewards. This will cost you only R20,18pm. You accept the terms and conditions and monthly fee.",
+    "backOfficeNotificationDate": "2018-12-20T15:01:19.6932584+00:00",
+    "activeExpiryDate": "2020-06-22T11:54:19.6932609+00:00",
+    "deviceExpiryDate": "2020-06-22T11:57:19.6932621+00:00",
+    "deliveryPriority": 2,
+    "responsePriority": 2,
+    "mustTrackFirstRead": true,
+    "mustTrackAllReads": false,
+    "mustTrackDismiss": true,
+    "allowMultipleResponses": false,
+    "allowAnonymous": false,
+    "mustBlockApp": false,
+    "mustPush": true,
+    "responseOptions": [
+      {
+        "type": "ALP",
+        "label": "Continue",
+        "value": "1",
+        "action": "GreenBackSignUp",
+        "additionalParameters": [
+          {
+            "name": "MaxLoan",
+            "value": "asSAD0326"
+          }
+        ]
+      },
+      {
+        "type": "ALN",
+        "label": "Dismiss",
+        "value": "2",
+        "action": "Dismiss",
+        "additionalParameters": [
+          {
+            "name": "MaxLoan",
+            "value": "asSAD0326"
+          }
+        ]
+      }
+    ],
+    "channels": [
+      {
+        "channel": 100
+      },
+      {
+        "channel": 100
+      }
+    ]
+  }
+}

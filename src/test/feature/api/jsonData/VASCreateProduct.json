@@ -1,0 +1,65 @@
+{
+  "description":"test",
+  "displayName":"test",
+  "metaData":"test",
+  "webIcon":"",
+  "iosIcon":"",
+  "androidIcon":"",
+  "additionalContent":"",
+  "name":"test",
+  "vendorProductCode":"test",
+  "productStatusId":41,
+  "vendorId":5557,
+  "tagIds":[
+    11473,
+    11339
+  ],
+  "publishedDate":"2020-05-29",
+  "expiryDate":"2020-05-29",
+  "productCostPrices":[
+    {
+      "billingTypeId":23,
+      "price":5,
+      "min":0,
+      "max":0,
+      "startDate":"2020-05-29",
+      "endDate":"2020-05-29"
+    }
+  ],
+  "productSubTypeId":37
+}
+
+
+
+//{
+//  "description":"Test",
+//  "displayName":"Test",
+//  "metaData":"",
+//  "webIcon":"",
+//  "iosIcon":"",
+//  "androidIcon":"",
+//  "additionalContent":"",
+//  "name":"Test",
+//  "vendorProductCode":"Test01",
+//  "productStatusId":41,
+//  "vendorId":5310,
+//  "productSubTypeId":33,
+//  "tagIds":[
+//    11331,
+//    11329,
+//    11328,
+//    11327
+//  ],
+//  "publishedDate":"2020-02-07",
+//  "expiryDate":"2020-02-08",
+//  "productCostPrices":[
+//    {
+//      "billingTypeId":23,
+//      "price":10,
+//      "min":0,
+//      "max":0,
+//      "startDate":"2020-02-07",
+//      "endDate":"2020-02-08"
+//    }
+//  ]
+//}

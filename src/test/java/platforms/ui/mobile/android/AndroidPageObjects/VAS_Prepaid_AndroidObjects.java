@@ -1,0 +1,80 @@
+package platforms.ui.mobile.android.AndroidPageObjects;
+
+import platforms.ui.mobile.android.VAS_AndroidDataFactory;
+
+public class VAS_Prepaid_AndroidObjects {
+
+        public static String ALLOW_BTN_ID = "permission_allow_button";
+        public static String CONTINUE_WITH_THIS_VERSION = "btn_continue";
+        public static String BTN_NEXT = "//android.widget.Button[@text='Next']";
+        public static String RegisterBtn = "//android.widget.Button[@text='Register']";
+        public static String LogIn = "tv_login";
+        public static String WelcomeScreen = "txvWelcome";
+        public static String PersonalProfileIdNum = "esEdtInput";
+        public static String LoginNextBtn = "esBtnAction";
+        public static String BusProfileNED_ID= "//android.widget.TextView[@text='Nedbank ID']";
+        public static String TypeOfProfile = "esBtnAction";
+        public static String NED_USERNAME = "//android.widget.EditText[@password='false' and @index='0']";
+        public static String NED_PASSWORD = "//android.widget.EditText[@password='true' and @index='0']";
+        public static String ACCEPTTerm = "chkTnC";//"//android.widget.CheckBox[@index='0']";
+        public static String NEXT_LOGIN = "//android.widget.Button[@text='Next']";
+        public static String NEXT_Account = "//android.widget.TextView[@text='Great, you’re in! Link your accounts.']";
+        public static String LOGIN = "//android.widget.Button[@text='Log in']";
+        public static String ENROLMENT_CANCEL_CREATE_PIN = "imgClose";
+        public static String ENROLMENT_WELCOME_SCREEN = "overview_page_pie_chart";//"overview_welcome";//"My accounts";
+        public static String ENROL_OK_ID = "//android.widget.TextView[@text='OK' and @index='2']";
+        public static String ENROL_TRANSACT = "//android.widget.ImageView[@instance='15']";
+        public static String TRANSACT_BUY_ID = "fabBuy";//"//android.widget.TextView[@text='Buy' and @instance='19']";
+        public static String BUY_PREPAID = "//android.widget.TextView[@text='Buy Prepaid data, airtime or SMSs']";
+        public static String ProviderScreen = "//android.widget.TextView[@text='Choose prepaid brand']";
+        public static String ProviderType = "iv_operator_name";
+        public static String CategoryScreen = "//android.widget.TextView[@text='Airtime']";
+        public static String Data = "//android.widget.TextView[@text='Data']";
+        public static String Social = "//android.widget.TextView[@text='Social']";
+        public static String SMS = "//android.widget.TextView[@text='SMS']";
+        public static String WhatsApp = "//android.widget.TextView[@text='WhatsApp']";
+        public static String Voice = "//android.widget.TextView[@text='Voice']";
+        public static String Landline = "//android.widget.TextView[@text='Landline']";
+        public static String Product = "item_prepaid_product";
+        public static String RecipientScreen = "//android.widget.TextView[@text='Purchase details']";
+        public static String ProductName = "tv_product_name";
+        public static String ProductPrice = "tv_product_price";
+        public static String SaveBeneficiarySwitch = "toggle_save_recipient";
+        public static String EditField = "edtInput";
+        public static String PaymentScreen = "txvAccountLabel";
+        public static String PrepaidProductName = "tv_product_des";
+        public static String PrepaidRecipientName = "tv_recipient_info";
+        public static String PrepaidProductPrice = "edtAmount";
+        public static String PrepaidPurchaseAcc = "tvAdditionalInfo";
+        public static String ReviewScreen = "//android.widget.TextView[@text='Review details']";
+        public static String ReviewRecipientDetails = "tv_recipient_detail";
+        public static String ReviewAccDetails = "tv_from_account";
+        public static String ReviewRefDetails = "tv_your_payment_reference";
+        public static String SuccessScreen = "//android.widget.TextView[@text='Purchase successful']";
+        public static String SuccessRecDetails = "tv_recipient_detail";
+        public static String PaymentRef = "tv_payment_reference";
+        public static String Close = "iv_close";
+        public static String FinishButton = "//android.widget.Button[@text='Finish']";
+        public static String NewPurchaseButton = "//android.widget.Button[@text='New purchase']";
+        public static String landLineScreen = "//android.widget.TextView[@text='Enter landline amount']";
+        public static String OwnAmountScreen = "//android.widget.TextView[@text='Enter airtime amount']";
+        public static String SelectRecipients = "tv_select_from_recipient";
+        public static String SelectPhoneContacts = "tv_select_from_phone_contacts";
+        public static String SearchScreen = "//android.widget.TextView[@text='Search']";
+        public static String FirstRecipient = "ll_item_view_parent";
+        public static String PurchaseDetScreen = "//android.widget.TextView[@text='Who is the prepaid for?']";
+        public static String RecPhoneNum = "tv_ro_phone_number";
+        public static String RecName = "tv_ro_recipient_name";
+        public static String ChangeRecipientBtn = "tv_clear_recipient";
+        public static String ErrorMsg = "txvError";
+        public static String BackBtn = "Navigate up";
+        public static String ShowAll = "prepaid_transactions_show_all";
+        public static String ProductFromHistory = "ll_item_history_prepaid";
+        public static String BuyAgainFromHistory = "tv_buy_again";
+        public static String HistoryListingScreen = "//android.widget.TextView[@text='My prepaid purchases']";
+        public static String HistoryDetailScreen = "//android.widget.TextView[@text='Transaction details']";
+        public static String NextBtn = "btnAction";
+        public static String FieldErrorMsg = "txvError";////android.widget.TextView[@text='This field cannot be empty']";
+
+
+}
